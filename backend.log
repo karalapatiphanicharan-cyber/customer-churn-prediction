@@ -1,0 +1,6 @@
+INFO:     Started server process [49677]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:35686 - "OPTIONS /predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35702 - "POST /predict HTTP/1.1" 200 OK
